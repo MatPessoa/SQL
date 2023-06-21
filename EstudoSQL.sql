@@ -1,6 +1,5 @@
-USE `cadastro`;
 CREATE DATABASE  IF NOT EXISTS `cadastro`;
-
+USE `cadastro`;
 
 
 DROP TABLE IF EXISTS `cursos`;
